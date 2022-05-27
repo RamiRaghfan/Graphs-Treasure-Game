@@ -4,6 +4,8 @@ REQUIRES C++ COMPILER OR IDE TO WORK
 1. Extract all files into a single folder
 2. Compile and tun using your preferred method
 3. Review input and output files
+
+Graph demo with NP coloring method and advanced traversal of graphs 
 --------------------------------------------------------------------------------
 Graph class is taken from the Data Structures lab. 
 
